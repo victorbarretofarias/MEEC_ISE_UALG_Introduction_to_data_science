@@ -1,5 +1,6 @@
 *.DS_Store
-.idea/*
+*/.idea
+*.iml
 
 1-Databases/.idea/*
 3-data-analysis/.idea/*
@@ -138,3 +139,22 @@ dmypy.json
 .pyre/
 3-data-analysis/data/weather_data/.cache.sqlite
 anaconda_projects/db/project_filebrowser.db
+4-reporting-and-dashboards/.idea/4-dashboarding.iml
+4-reporting-and-dashboards/.idea/copilot.data.migration.ask2agent.xml
+.idea/copilot.data.migration.ask2agent.xml
+.idea/jupyter-settings.xml
+.gitignore
+.idea/modules.xml
+.gitignore
+.idea/inspectionProfiles/Project_Default.xml
+.gitignore
+.idea/vcs.xml
+.idea/misc.xml
+4-reporting-and-dashboards/panel/Tests/.idea/jupyter-settings.xml
+4-reporting-and-dashboards/panel/Tests/.idea/misc.xml
+.gitignore
+.gitignore
+4-reporting-and-dashboards/panel/Tests/.idea/inspectionProfiles/Project_Default.xml
+.gitignore
+4-reporting-and-dashboards/panel/Tests/.idea/modules.xml
+4-reporting-and-dashboards/panel/Tests/.idea/vcs.xml

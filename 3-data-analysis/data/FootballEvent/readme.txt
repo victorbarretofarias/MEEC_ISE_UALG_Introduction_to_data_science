@@ -1,1 +1,0 @@
-Data download from: https://www.kaggle.com/datasets/secareanualin/football-events
